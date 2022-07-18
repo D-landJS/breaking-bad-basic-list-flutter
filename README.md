@@ -1,17 +1,14 @@
-# breaking_bad_character_list_app
+#  Breaking Bad
 
-A new Flutter project.
 
-## Getting Started
+Creacion de aplicación mobile en Flutter.
+Creation of mobile application in Flutter.
 
-This project is a starting point for a Flutter application.
+### App with Flutter
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# breaking-bad-basic-list-flutter
+In this repository you will find a simple list that brings Breaking Bad characters using their api data.
+En este repositorio encontrarás una lista simple que trae a los personajes de Breaking Bad usando los datos de su api.
+---------------------------------------------------------------------------------------------------------
+> Este es su URL
+[Visita la api](https://breakingbadapi.com/)
+![foto de cabecera](https://fondosmil.com/fondo/42186.jpg)
