@@ -4,7 +4,7 @@
 Creacion de aplicación mobile en Flutter.
 Creation of mobile application in Flutter.
 
-### App with Flutter
+## App with Flutter
 
 En este repositorio encontrarás una lista simple que trae a los personajes de Breaking Bad usando los datos de su api.
 
