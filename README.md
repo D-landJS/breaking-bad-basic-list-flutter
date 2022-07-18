@@ -11,4 +11,7 @@ En este repositorio encontrarás una lista simple que trae a los personajes de B
 ---------------------------------------------------------------------------------------------------------
 > Este es su URL
 [Visita la api](https://breakingbadapi.com/)
+
+
+---------------------------------------------------------------------------------------------------------
 ![foto de cabecera](https://fondosmil.com/fondo/42186.jpg)
