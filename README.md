@@ -12,7 +12,7 @@ En este repositorio encontrarás una lista simple que trae a los personajes de B
 In this repository you will find a simple list that brings Breaking Bad characters using their api data.
 
 ---------------------------------------------------------------------------------------------------------
-> URL Breakinb Bad Api ->
+> URL Breaking Bad Api ->
 [Click here](https://breakingbadapi.com/)
 
 
